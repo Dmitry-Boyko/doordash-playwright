@@ -1,0 +1,13 @@
+{
+  "name": "doordash-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dmitry-Boyko/doordash-playwright.git",
+  "author": "Dmitry <dmt.b@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.3"
+  },
+  "scripts": {}
+}
